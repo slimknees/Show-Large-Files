@@ -6,7 +6,7 @@
 # the size of all sub folders within a particular folder, output will be 
 # appended to the txt file generated during the initial scan.
 #
-# Author: Rob Willis 6/15/2016
+# Author: justin 6/15/2016
 #
 ######################################################################
 
